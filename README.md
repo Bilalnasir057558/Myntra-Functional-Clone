@@ -22,5 +22,7 @@ This project is part of my web development learning journey. The goal was to pra
 
 ## 📸 Screenshots  
 *(Add your project screenshots here – example)*  
-![Screenshot]()  
+![Desktop View](screenshots/1.png)
+![Mobile View](screenshots/5.png)
+
 
